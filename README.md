@@ -1,0 +1,1 @@
+Project created for study how to use aside, article, section and footer
